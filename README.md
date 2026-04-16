@@ -1,5 +1,7 @@
 # free-scp-skill
 
+![SCP](./assets/scp.gif)
+
 A Claude Code Agent Skill for searching, referencing, and analyzing SCP Foundation collaborative fiction. Designed to help writers find similar concepts, avoid duplicate tropes, and spark new ideas.
 
 ## Features
