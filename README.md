@@ -236,7 +236,7 @@ claude skills add https://github.com/koronto11/free-scp-skill
 
 ## 开源协议 | License
 
-All SCP content is licensed under [CC-BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/). This skill always returns attribution and original URLs to respect that license.
+The `free-scp-skill` codebase is released under the [MIT License](./LICENSE).
 
-The skill code itself is open source. See the repository for details.
+All SCP Foundation content referenced or indexed by this tool remains under [CC-BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/). This skill always returns attribution and original URLs to respect that license.
 
