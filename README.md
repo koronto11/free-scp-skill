@@ -1,7 +1,7 @@
 # free-scp-skill
 
 <div align="center">
-  <img src="./assets/scp.gif" alt="SCP" width="200" />
+  <img src="./assets/scp.gif" alt="SCP" />
 </div>
 
 <p align="center">
